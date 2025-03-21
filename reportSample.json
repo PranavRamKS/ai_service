@@ -1,0 +1,34 @@
+[
+    {
+      "Technical_Topic": "Basic Knowledge on SDLC (Requirement Analysis)",
+      "Objective": "Check understanding of activities under every topic",
+      "Maximum": 10,
+      "Awarded": 4.0
+    },
+    {
+      "Technical_Topic": "Functions and Arguments in python",
+      "Objective": "Check the Syntax and types of Arguments",
+      "Maximum": 10,
+      "Awarded": 4.0
+    },
+
+    {
+      "Technical_Topic": "OOPS Concepts and Features (Abstraction, Encapsulation)",
+      "Objective": "Check both conceptual and technical understanding",
+      "Maximum": 15,
+      "Awarded": 7.0
+    },
+    {
+      "Technical_Topic": "IDE Usage - Python",
+      "Objective": "Check the various environment",
+      "Maximum": 5,
+      "Awarded": 2.5
+    },
+    {
+      "Technical_Topic": "Primitive Datatypes and String manipulations in python",
+      "Objective": "Provide scenario and check the understanding",
+      "Maximum": 5,
+      "Awarded": 4.0
+    }
+  ]
+  
